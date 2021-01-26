@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 , I am Anshuman! 
 - 🔭 I’m currently 2nd year Electrical Engineering UG
 - 👨🏽‍💻 Currently working, learning and growing my skillset in Web Development,Machine Learning deep learning, data structures and algorithms.
 - 🤝 Open for collaborations in web development projects and ML/AI projects
